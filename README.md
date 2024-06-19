@@ -11,7 +11,7 @@ Unlock the power of natural language with our cutting-edge LLM project powered b
   - Few shot learning
   - MySQL
 
-## Sample Queries 📝:
+## 📝 Sample Queries:
   - How many total t shirts are left in total in stock?
   - How many t-shirts do we have left for Nike in XS size and white color?
   - How much is the total price of the inventory for all S-size t-shirts?
