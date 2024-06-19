@@ -2,7 +2,7 @@
 ## Smart Analytics for T-Shirt Businesses
 Unlock the power of natural language with our cutting-edge LLM project powered by Google Palm and Langchain! Seamlessly interact with MySQL databases by simply asking questions. Our system converts your queries into SQL commands, delivering instant, precise answers. Revolutionizing database interaction, one conversation at a time.
 
-## Tech Stack Used 💻:
+## 💻 Tech Stack Used:
   - Google Palm LLM
   - Hugging face embeddings
   - Streamlit for UI
