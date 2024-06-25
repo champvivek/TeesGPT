@@ -19,3 +19,13 @@ Unlock the power of natural language with our cutting-edge LLM project powered b
 
 ## 📌 Note: 
   - Please update the "langchain_helper.py" file with your own generated Google PaLM API key and ensure to provide your Database Password for optimal application performance and functionality.
+
+## Output
+### Result 1
+![TeesGPT ss1](https://github.com/champvivek/TeesGPT/assets/170767101/0d29516c-aaec-45ee-b693-f975c2dc22bf)
+![TeesGPT ss2](https://github.com/champvivek/TeesGPT/assets/170767101/a95bf80b-f1f1-4588-b9a7-cab60e7b45c6)
+
+### Result 2
+![TeesGPT ss3](https://github.com/champvivek/TeesGPT/assets/170767101/1351a103-b89f-4685-ad40-795c8476c201)
+![TeesGPT ss4](https://github.com/champvivek/TeesGPT/assets/170767101/89746388-e53b-4b0f-b150-6a3dff39b7ed)
+
